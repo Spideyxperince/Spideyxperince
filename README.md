@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hritik 👋
 
-<!--
-**Spideyxperince/Spideyxperince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 19-year-old coding student from India
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently learning Java, DSA, and Backend Development
+- 💻 Building projects to strengthen problem-solving skills
+- 🤝 Open to collaborating on beginner-friendly open-source projects
+- 🎯 Goal: Become a skilled software engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Java  (Learning)
+- Git & GitHub
+- HTML
+- CSS
+- JavaScript (Learning)
+
+## Current Focus
+- Data Structures & Algorithms
+- Java Projects
+- Open Source Contributions
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/hritik-chaudhary94
+- Email: spideyxperience@gmail.com
