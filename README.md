@@ -73,31 +73,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Spideyxperince&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spideyxperince&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com?user=Spideyxperince&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Spideyxperince/Spideyxperince/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
-
-> The snake animation will work after you complete the GitHub Actions setup below.
 
 ---
 
